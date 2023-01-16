@@ -1,7 +1,7 @@
 # Credit Risk Analysis
 
-**File Sources:** [Credit Risk Resampling]("credit_risk_resampling.ipynb"), [Credit Risk Ensemble]("credit_risk_ensemble.ipynb")
-**Data:** [Loan Stats 2019 Q1]("Resources/LoanStats_2019Q1.csv")
+**File Sources:** [credit_risk_resampling.ipynb]("credit_risk_resampling.ipynb"), [credit_risk_ensemble.ipynb]("credit_risk_ensemble.ipynb")
+**Data:** [LoanStats_2019Q1.csv]("Resources/LoanStats_2019Q1.csv")
 
 ---
 
